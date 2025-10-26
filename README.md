@@ -6,7 +6,7 @@ A demonstration of how to integrate **SingularityNET's MeTTa Knowledge Graph** w
 
 This agent connects to your brand research knowledge graph (hosted via ngrok) and provides intelligent responses about:
 
-- **Brand Research**: Comprehensive analysis of brands including web results, reviews, Reddit discussions, and social media sentiment
+- **Brand Research**: Comprehensive analysis of brands including web results, reviews, Reddit discussions, and social media sentiment.
 - **Sentiment Analysis**: Detailed sentiment breakdown across different platforms
 - **Competitor Analysis**: Suggestions for comparing brands and competitive intelligence
 - **FAQ Support**: General brand research assistance
